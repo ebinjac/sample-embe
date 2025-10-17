@@ -1,0 +1,1 @@
+DROP INDEX "applications_asset_id_idx";
